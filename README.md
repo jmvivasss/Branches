@@ -1,2 +1,2 @@
 # branches2
-readme del main
+readme del branch
